@@ -49,5 +49,6 @@ Lastly, this heatmap further reinforces the trend and higher demand of of **MALE
 In conclusion, bikeshare services like CitiBike are very popular and meet a strong demand of convienent and cheap transportation in a large metropolitan area. The user base is made primarily of male subscribers. CitiBike has a large growth opportunity infront of them if they can grow their **FEMALE** user base.
 
 Lastly, additional analysis could be beneficial by:
-    - comparing data from different months such as May & July.
-    - including weather data to find a correlation of ride demand based on weather performance.
+
+   - comparing data from different months such as May & July.
+   - including weather data to find a correlation of ride demand based on weather performance.
